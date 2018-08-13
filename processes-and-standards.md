@@ -5,4 +5,4 @@
 - [CodeSniffer and MessDetector](https://blog.jetbrains.com/phpstorm/2018/08/simplified-codesniffer-and-messdetector-setup/)
 
 ## Настройка рабочего окружения
-- [xdebug]()
+- [xdebug](https://github.com/obvu/playbook/blob/master/docker-php-xdebug.md)
